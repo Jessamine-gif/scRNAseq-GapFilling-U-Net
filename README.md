@@ -21,13 +21,14 @@ Key features include:
 ## 2. Visual Summary
 
 ### Data Processing Flow
-![Flowchart](figures/Single-cell sequencing data gap-filling algorithm flow chart.png)
+![Flowchart](figures/Single-cell%20sequencing%20data%20gap-filling%20algorithm%20flow%20chart.png)
 
 ### Model Structure
-![Architecture](figures/Variable combination algorithm interpolation flow.png)
+![Architecture](figures/Variable%20combination%20algorithm%20interpolation%20flow.png)
 
 ### Result Comparison
-![Results](figures/Comparison of the clustering effect before and after filling the gap.png)
+![Results](figures/Comparison%20of%20the%20clustering%20effect%20before%20and%20after%20filling%20the%20gap.png)
+
 
 ---
 
